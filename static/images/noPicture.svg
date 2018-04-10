@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="250" width="250" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title id="title3055">Pictogram voting question2</title>
+ <metadata id="metadata8">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Pictogram voting question2</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs6">
+  <linearGradient id="linearGradient3065" y2=".26483" gradientUnits="userSpaceOnUse" x2="-21.716" gradientTransform="matrix(2.3245 0 0 2.6994 299.24 124.74)" y1=".26483" x1="-127.65">
+   <stop id="stop3049" stop-color="#fff" offset="0"/>
+   <stop id="stop3051" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="path2993" d="m-21.716 0.26483c0 25.303-23.714 45.816-52.966 45.816s-52.966-20.512-52.966-45.816c0-25.303 23.714-45.816 52.966-45.816 29.129 0 52.791 20.346 52.965 45.542l-52.965 0.27399z" transform="matrix(2.2856 0 0 2.6525 296.27 124.7)" stroke="#f60" stroke-width="1.7" fill="#f60"/>
+ <path id="path2991" d="m239.41 155.99c0 53.093-46.835 96.133-104.61 96.133-57.773 0-104.61-43.04-104.61-96.133s46.835-96.133 104.61-96.133c57.773 0 104.61 43.04 104.61 96.133z" transform="matrix(.96221 0 0 1.0442 -3.8634 -36.468)" stroke="#fff" stroke-width="1.7" fill="#fff"/>
+ <g id="text3017" fill="#f60" transform="matrix(1.1211 0 0 1.1798 -16.695 -18.676)">
+  <path id="path3060" fill="#f60" d="m138.92 157.63h-24.31c-0.0636-3.4955-0.0954-5.6247-0.0953-6.3874-0.00004-7.8809 1.3028-14.364 3.9087-19.448 2.6057-5.0844 7.8173-10.804 15.635-17.16 7.8173-6.3555 12.489-10.518 14.014-12.489 2.3515-3.1142 3.5273-6.5462 3.5274-10.296-0.00008-5.2115-2.0815-9.6763-6.2444-13.394-4.163-3.7179-9.7718-5.5769-16.826-5.577-6.8006 0.000121-12.489 1.9386-17.065 5.8154-4.5761 3.877-7.7221 9.7877-9.4381 17.732l-24.596-3.055c0.699-11.376 5.545-21.037 14.538-28.981 8.998-7.945 20.798-11.917 35.418-11.917 15.38 0.000141 27.615 4.0201 36.704 12.06 9.0884 8.04 13.633 17.399 13.633 28.076-0.00012 5.9108-1.6685 11.504-5.005 16.779-3.3368 5.2752-10.471 12.457-21.402 21.545-5.6566 4.7032-9.168 8.4848-10.534 11.345-1.3665 2.8601-1.9862 7.9763-1.859 15.349zm-24.31 36.036v-26.789h26.789v26.789z"/>
+ </g>
+ <path id="path2993-1" opacity=".45" d="m247.76 125.46c0 68.304-55.123 123.68-123.12 123.68-67.998 0-123.12-55.371-123.12-123.68 0-68.304 55.123-123.68 123.12-123.68 67.994 0 123.12 55.366 123.12 123.67" fill="url(#linearGradient3065)"/>
+</svg>
